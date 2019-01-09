@@ -1,0 +1,24 @@
+Todo bien (1) menos lo especificado
+
+* pr1
+** 3 - 0.6
+** 4 - 0
+** 5 - 0.7
+** 6 - 0
+** 7 - 0.2
+** 8 - 0.7
+** 9 - 0.3
+Resulta que la mejora de usar una funcion exponencial y no lineal
+había que hacerla en este ejercicio. Ademán, sólo funciona para el
+caballo
+** 10 - 0.5
+Resulta que aquí había que hacer mejoras distintas a la de usar una
+función exponencial
+* pr2
+** 1 - 0.5
+Por no hacer la parte opcional
+** 11 - 0
+Porque lo que dan los vectores de traslación y rotación es el origen
+respecto al centro óptico y no al revés, o algo así
+* pr3
+** 2 - 0.3
